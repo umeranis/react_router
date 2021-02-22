@@ -1,0 +1,30 @@
+.nav {
+    padding: 180px;
+}
+.why {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 80px;
+    text-decoration: none;
+    padding: 20px;
+    margin: 0px;
+    cursor: pointer;
+    display: inline-flex;
+}
+.why:hover {
+    background-color: white;
+}
+.thy {
+    font-size: 25px;
+    display: inline-flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 80px;
+    text-decoration: none;
+    padding: 20px;
+    margin: 0px;
+    cursor: pointer;
+    
+}
+.thy:hover {
+    background-color: white;
+}
